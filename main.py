@@ -21,6 +21,6 @@ elif args_count < 2:
 
 if test_domain(sys.argv[1]):
     print("Target uses 365 Cloud")
-    print("\n See https://attack.mitre.org/matrices/enterprise/cloud/office365/ for attacks on this domain")
+    print("\nSee https://attack.mitre.org/matrices/enterprise/cloud/office365/ for attacks on this domain")
 else:
     print("Target doesn't use 365 Cloud")
