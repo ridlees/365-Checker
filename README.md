@@ -13,5 +13,6 @@ Run `pip install -r requirements.txt`
 ## Usage
 
 Have your domain ready in format domain.xy (for example - denikn.cz)
+
 Run `python main.py YOUR_DOMAIN`
 
