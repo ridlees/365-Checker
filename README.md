@@ -3,8 +3,8 @@ Checks if given domain has 365 cloud. For Pentesting purposes.
 
 ## Dependencies
 
-*requests - to do a GET request on MS
-*xmltodict - to parse returned XML
+* requests - to do a GET request on MS
+* xmltodict - to parse returned XML
 
 ## Instalation
 
